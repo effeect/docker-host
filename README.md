@@ -1,0 +1,1 @@
+This is a repo for me to get an environment quickly setup for development, this repo only contains an InfluxDB and NodeRed instance to do some rapid development/prototyping
